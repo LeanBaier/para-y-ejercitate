@@ -1,9 +1,7 @@
 # para-y-ejercitate
-Web app que te recuerda hacer ejercicio con un estilo zen.
 
-## Características
+Aplicación de escritorio en Java que recuerda realizar pausas activas.
+La versión anterior en HTML/JS se ha reemplazado por una implementación
+usando Swing y almacenamiento de preferencias local.
 
-- Temporizador configurable con recordatorio mediante notificaciones del sistema.
-- Lista de ejercicios con nombre y descripción editable.
-- Tema visual minimalista y opción de modo oscuro.
-- Música de fondo opcional y sonido de alerta al notificar.
+Consulta `java-app/README.md` para instrucciones de compilación y uso.
